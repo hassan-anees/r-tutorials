@@ -1,4 +1,4 @@
-# r-tutorials
+# R-tutorials
 ## Description
 This repository contains small examples of statistical analyses with the programming language R.
 Each folder goes over a small topic and has an additional README to give a deeper dive regarding the topic.
